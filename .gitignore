@@ -1,0 +1,19 @@
+# .gitignore for Anaconda/Python projects
+data/               # Ignore data folders
+*.csv               # Ignore CSV files
+*.ipynb_checkpoints/ # Jupyter notebook checkpoints
+__pycache__/       # Python bytecode cache
+*.pyc              # Compiled Python files
+.conda/            # Conda environment files
+*.egg-info/        # Python package metadata
+env/               # Virtual environment folder
+.venv/             # Alternative env folder name 
+data/ 
+*.csv 
+*.ipynb_checkpoints/ 
+__pycache__/ 
+*.pyc 
+.conda/ 
+*.egg-info/ 
+env/ 
+.venv/ 
